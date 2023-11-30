@@ -2,11 +2,13 @@
 YTU Blockchain Topluluğu Solidity eğitiminde kullanılacak kaynaklar ve kodlar
 
 1.Ders
+Konular:
   * Ethereum nedir ne nasıl çalışır?
   * Solidity nedir?  
   * Smart contract nedir?
   * Smart contract nasıl yazılır?
-  
+
+ Kaynaklar:
 * How does a blockchain work: https://www.youtube.com/watch?v=SSo_EIwHSd4&t=1s&ab_channel=SimplyExplained
 * Proof-of-Stake (vs proof-of-work) : https://www.youtube.com/watch?v=M3EFi_POhps&ab_channel=SimplyExplained
 * Smart contracts  : https://www.youtube.com/watch?v=ZE2HxTmxfrI&t=3s&ab_channel=SimplyExplained
